@@ -41,6 +41,12 @@ Install [PyTorch](https://pytorch.org), then run:
 python sacred_pause_model.py
 ```
 
+## Colab Demo
+
+Want to try it without setting anything up?
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/FractionicMind/SacredPause-AI/blob/main/Sacred0_ColabDemo.ipynb)
+
 ---
 
 ## Structure
