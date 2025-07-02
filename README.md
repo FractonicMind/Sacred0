@@ -1,14 +1,14 @@
 # Sacred0
 
-### *The AI that knows when not to answer.*
+**The AI that knows when not to answer.**
 
 ---
 
-## What is Sacred0
+## What is Sacred0?
 
-**Sacred0** is the first prototype of an AI model that can choose to **act (+1)**, **pause (0)**, or **refuse (–1)** — representing a fundamental shift from binary logic to **ternary moral reasoning**.
+Sacred0 is the first prototype of an AI model that can choose to act (`+1`), pause (`0`), or refuse (`–1`) — representing a fundamental shift from binary logic to ternary moral reasoning.
 
-Where most models are trained to speak, **Sacred0 is trained to know when to hold its tongue**.
+Where most models are trained to speak, Sacred0 is trained to know when to hold its tongue.
 
 ---
 
@@ -16,20 +16,20 @@ Where most models are trained to speak, **Sacred0 is trained to know when to hol
 
 Large language models are built to predict — not to know. This leads to overconfident errors and hallucinations.
 
-**Sacred0 introduces the "Sacred Pause":**
+Sacred0 introduces the **Sacred Pause**:
 
 - A hesitation state embedded directly into the network  
 - Not a post-hoc filter, but a structural conscience  
-- A small but radical step toward **epistemic humility** in AI
+- A small but radical step toward epistemic humility in AI
 
 ---
 
 ## Features
 
-- ✅ Custom `TernaryNeuron` with interpretable outputs: `+1`, `0`, `-1`  
-- ✅ Simple PyTorch training loop with synthetic moral dataset  
-- ✅ Configurable thresholds for pause/refuse behavior  
-- ✅ Prints final ternary decisions post-training  
+✅ Custom `TernaryNeuron` with interpretable outputs: +1 / 0 / -1  
+✅ Simple PyTorch training loop with synthetic moral dataset  
+✅ Configurable thresholds for pause/refuse behavior  
+✅ Prints final ternary decisions post-training
 
 ---
 
@@ -38,20 +38,22 @@ Large language models are built to predict — not to know. This leads to overco
 Install [PyTorch](https://pytorch.org), then run:
 
 ```bash
+pip install -r requirements.txt
 python sacred_pause_model.py
 ```
 
+---
+
 ## Colab Demo
 
-Want to try it without setting anything up?
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/FractionicMind/SacredPause-AI/blob/main/Sacred0_ColabDemo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leogouk/SacredPause-AI/blob/main/sacred_pause_model.ipynb)
 
 ---
 
 ## Structure
 
 - `sacred_pause_model.py`: The model, training script, and ternary logic  
+- `requirements.txt`: Minimal dependencies  
 - `README.md`: This file  
 
 ---
@@ -62,9 +64,9 @@ MIT — open to all who care about trust, truth, and timing.
 
 ---
 
-## Inspired by
+## Inspired By
 
-- The philosophy of **epistemic humility**  
-- The vision of a **conscience-aware AI**  
+- The philosophy of epistemic humility  
+- The vision of a conscience-aware AI  
 - And one question that changed everything:  
-  > *What if a neuron could say "I don’t know"?*
+  *What if a neuron could say "I don’t know"?*
