@@ -6,7 +6,7 @@
 
 **Executable Conscience for AI. A ternary moral framework where the machine may act, pause, or refuse.**
 
-[![Colab Demo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FractonicMind/Sacred0/blob/main/Sacred0_ColabDemo.ipynb)
+[Colab demo notebook](https://fractonicmind.github.io/Sacred0/Sacred0_ColabDemo.ipynb)
 
 ---
 
