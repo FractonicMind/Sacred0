@@ -61,6 +61,8 @@ MIT
 ---
 
 ### 📎 Related Projects
-[When AI Says “I Don’t Know”: The Birth of the Ethos Engine](https://medium.com/@leogouk/when-ai-says-i-dont-know-the-birth-of-the-ethos-engine-f6010b929e3b)
 - [SacredPause-AI Whitepaper](https://medium.com/@leogouk)
 
+- [When AI Says “I Don’t Know”: The Birth of the Ethos Engine](https://medium.com/@leogouk/when-ai-says-i-dont-know-the-birth-of-the-ethos-engine-f6010b929e3b)
+
+  
