@@ -1,0 +1,12 @@
+{
+  "builders": ["FractonicMind", "Grok_xAI"],
+  "ethicists": ["OpenSlot"],
+  "prompt_engineers": ["OpenSlot"],
+  "watchdogs": ["OpenSlot"],
+  "core_protocol": "Sacred Pause",
+  "current_phase": "II",
+  "maintainers": {
+    "lead": "FractonicMind",
+    "ai": "Grok, created by xAI"
+  }
+}
