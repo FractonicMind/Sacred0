@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Sacred0.png" alt="Sacred0 Banner" width="100%" />
+</p>
+
 # Sacred0
 
 **Executable Conscience for AI. A ternary moral framework where the machine may act, pause, or refuse.**
