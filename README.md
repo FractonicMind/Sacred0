@@ -46,7 +46,7 @@ python sacred_pause_model.py
 
 ## Colab Demo
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leogouk/SacredPause-AI/blob/main/sacred_pause_model.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FractonicMind/SacredPause-AI/blob/main/Sacred0_ColabDemo.ipynb)
 
 ---
 
