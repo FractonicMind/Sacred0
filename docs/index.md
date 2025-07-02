@@ -12,7 +12,7 @@ It is the first model to embed the **Sacred Pause** directly into its logic. Ins
 
 ## How to Use This Repo
 
-Start with the [Colab demo notebook](../Sacred0_ColabDemo.ipynb). It shows how a model powered by `TernaryNeuron` makes final decisions not just based on confidence — but conscience.
+Start with the [Colab demo notebook](https://fractonicmind.github.io/Sacred0/Sacred0_ColabDemo.ipynb). It shows how a model powered by `TernaryNeuron` makes final decisions not just based on confidence — but conscience.
 
 ## Learn the Philosophy
 
