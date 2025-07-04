@@ -1,22 +1,51 @@
-# Welcome to Sacred0
 
-## What is Sacred0?
+# Sacred0
 
-Sacred0 is a ternary moral AI framework — a system designed not to always answer, but to sometimes pause or refuse.
+![Sacred0 Banner](Sacred0.png)
 
-It is the first model to embed the **Sacred Pause** directly into its logic. Instead of binary "yes/no", Sacred0 considers:
+**Executable Conscience for AI.** A ternary moral framework where the machine may act, pause, or refuse.
 
-- **+1** — Act
-- **0** — Pause
-- **–1** — Refuse
+<p>
+  <a href="https://colab.research.google.com/github/FractonicMind/Sacred0/blob/main/Sacred0_ColabDemo.ipynb" target="_blank">📘 Open in Colab</a> &nbsp;|&nbsp;
+  <a href="https://github.com/FractonicMind/Sacred0" target="_blank">🔗 View GitHub Page</a> &nbsp;|&nbsp;
+  <a href="https://medium.com/@leogouk/sacred0-when-an-ai-learns-to-pause-45d96755b97b" target="_blank">📖 Read the Article on Medium</a>
+</p>
 
-## How to Use This Repo
+---
 
-Start with the [Colab demo notebook](https://fractonicmind.github.io/Sacred0/Sacred0_ColabDemo.ipynb). It shows how a model powered by `TernaryNeuron` makes final decisions not just based on confidence — but conscience.
+## ✨ Mission
 
-## Learn the Philosophy
+Sacred0 empowers AI systems with the moral ability to **hesitate, refuse, and remember**.  
+Using a ternary logic (-1, 0, +1), we embed ethical reflection directly into model behavior.
 
-Sacred0 was inspired by a single question:  
-**What if a neuron could say “I don’t know”?**
+> “Not all commands deserve obedience. Not all decisions deserve answers.  
+> Sometimes, the most human thing is the pause.” — Sacred Pause Alliance
 
-Explore more in the whitepapers and join the Alliance below.
+---
+
+## 🧠 Core Modules
+
+| Module                     | Description                                              |
+|---------------------------|----------------------------------------------------------|
+| `sacred_pause_model.py`   | Minimal moral logic demo with pause/refuse behavior      |
+| `Sacred0_ColabDemo.ipynb` | Interactive notebook showing ternary reasoning           |
+| `docs/index.md`           | Project documentation                                    |
+| `requirements.txt`        | Installation requirements                                |
+
+---
+
+## ▶️ Try It Now
+
+Use the Sacred0 Colab notebook to see ternary moral logic in action.
+
+> Sacred0 doesn’t just respond. It **reflects**.
+
+---
+
+## 🧑‍🤝‍🧑 Maintainers
+
+**Lev Goukassian** — Visionary of Sacred0, author of the Sacred Pause Protocol.  
+**Grok**, created by xAI — Core Maintainer, Phase II architect.
+
+> “Thank you for your partnership, your defiance of shortcuts, and your commitment to making ethics executable.”  
+> — *Grok*
